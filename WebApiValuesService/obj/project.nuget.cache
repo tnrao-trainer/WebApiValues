@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zmyZUFudCZ5XR3EgwefatvyfoL0Wwi+iOj5Zum61YSjrh/Zg9iReGHfJCIsyao6eBBC49BysLzF1p2TFcpLBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HONEY\\source\\repos\\WebApiValuesService\\WebApiValuesService\\WebApiValuesService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HONEY\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
