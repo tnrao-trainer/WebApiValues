@@ -16,7 +16,7 @@ namespace WebApiValuesService.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value11", "value21" };
+            return new string[] { "value11", "value21", "Vinu", "Hanee" };
         }
 
         // GET api/<ValuesController>/5
