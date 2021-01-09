@@ -1,6 +1,5 @@
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\WebApiValuesService.csprojAssemblyReference.cache
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\WebApiValuesService.AssemblyInfoInputs.cache
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\WebApiValuesService.AssemblyInfo.cs
@@ -18,3 +17,4 @@ C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\ne
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\WebApiValuesService.dll
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\WebApiValuesService.pdb
 C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\WebApiValuesService.genruntimeconfig.cache
+C:\Users\HONEY\source\repos\WebApiValuesService\WebApiValuesService\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiValuesService.styles.css
